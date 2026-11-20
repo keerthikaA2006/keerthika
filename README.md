@@ -1,24 +1,25 @@
-# Hi, I'm Keerthika A! 👋
+# Hi, I'm Keerthika A! 
 
-🎓 Information Technology Undergraduate at Saveetha Engineering College, Chennai.
+ Information Technology Undergraduate at Saveetha Engineering College, Chennai.
 
-💻 Aspiring Web Developer | Passionate about technology and software development.
+ Aspiring Web Developer | Passionate about technology and software development.
 
-## 👩‍💻 About Me
-- 🎓 Currently pursuing B.Tech in Information Technology.
-- 🌱 Learning Web Development and Software Engineering.
-- 💡 Interested in Java, Python, Frontend Development and Cloud Computing.
-- ☁️ AWS Certified Cloud Practitioner.
-- 🎯 Aspiring to become a skilled Web Developer.
+##  About Me
+-  Currently pursuing B.Tech in Information Technology.
+-  Learning Web Development and Software Engineering.
+-  Interested in Java, Python, Frontend Development and Cloud Computing.
+-  AWS Certified Cloud Practitioner.
+-  Aspiring to become a skilled Web Developer.
 
-## 🛠️ Technical Skills
+
+##  Technical Skills
 
 - **Programming Languages:** Java, Python
 - **Frontend Development:** HTML5, CSS3, JavaScript
 - **Cloud Computing:** AWS
 - **Tools:** Git, GitHub, VS Code
 
-## 🚀 Projects
+##  Projects
 
 ### Reliability-Aware Explainable Voice Deepfake Detection Using Wiener–Hopf Linear Prediction
 - Team-based academic project.
@@ -30,23 +31,23 @@
 - Learning and building web applications using HTML, CSS and JavaScript.
 - Focus on responsive and user-friendly designs.
 
-## 📜 Certifications
+##  Certifications
 - AWS Certified Cloud Practitioner – AWS
 - DevOps – IBM
 - Data Processing – Coursera
 - Web Applications – Infosys Springboard
 
-## 💼 Internship
+##  Internship
 **Web Development Intern**
 APPROTECH R&D SOLUTIONS PRIVATE LIMITED
 
 - Completed a one-month virtual internship.
 - Gained practical exposure to web development and programming tasks.
 
-## 🔗 Connect With Me
+##  Connect With Me
 
 - LinkedIn: https://www.linkedin.com/in/keerthika-a-6072a932a/
 - GitHub: https://github.com/keerthikaA2006
 
 ---
-⭐ Thanks for visiting my profile!
+ Thanks for visiting my profile!
