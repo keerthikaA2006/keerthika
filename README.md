@@ -97,6 +97,8 @@ Explore my personal portfolio to learn more about my skills, projects, experienc
 
 🚀 **[Visit My Portfolio Website](https://illustrious-tanuki-c813d2.netlify.app/)**
 
+<img width="1906" height="998" alt="Screenshot 2026-11-20 211818" src="https://github.com/user-attachments/assets/74b3e3c4-825e-4c29-a797-93e83aea632f" />
+
 ---
 
 ## 🔗 Connect With Me
