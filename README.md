@@ -20,15 +20,11 @@
 
 ## 📂 Projects
 
-### 1. Voice Deepfake Detection
+###  Voice Deepfake Detection
 - Team-based academic project.
 - Focuses on identifying genuine and AI-generated voices.
 - Technologies: Python, Machine Learning, Signal Processing.
 - Method: Wiener–Hopf Linear Prediction.
-
-### 2. Web Development Projects
-- Developing web-based applications using HTML, CSS and JavaScript.
-- Focus: Responsive and user-friendly interfaces.
 
 ## 📜 Certifications
 - AWS Certified Cloud Practitioner
